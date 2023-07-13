@@ -1,4 +1,4 @@
-package gg.jps.howtodivideclass;
+package jp.xhw.sample;
 
 import net.milkbowl.vault.economy.Economy;
 import org.bukkit.Material;
