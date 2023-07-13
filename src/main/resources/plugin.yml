@@ -1,0 +1,7 @@
+name: HowToDivideClass
+version: '${project.version}'
+main: gg.jps.howtodivideclass.HowaPlugin
+api-version: 1.20
+commands:
+  buy:
+    description: 買います
